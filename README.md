@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheraz Tariq</h1>
-<h3 align="center">Passionate about studying how to improve performance. Seeking to leverage data analytical skills to improve corporate performance as a data analyst.</h3>
+<h3 align="center">Passionate about studying how to improve performance. Seeking to leverage development skills to improve corporate performance as a Software developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsheraz&label=Profile%20views&color=0e75b6&style=flat" alt="iamsheraz" /> </p>
 
